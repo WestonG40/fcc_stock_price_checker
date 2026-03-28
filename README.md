@@ -2,6 +2,7 @@
 FreeCodeCamp's Information Security and Quality Assurance Projects - Stock Price Checker
 
 ISQA_5 - Nasdaq Stock Price Checker
+# Contributing
 ===================================
 
 ### User Stories
